@@ -57,6 +57,8 @@ Este programa crea una secuencia numérica, empleando el iterador For.
 
 5. El programa mostrará la serie generada con base en la fórmula y el número ingresado.
 
+---
+
 **Bibliografía**
 
 Manzano, G., Montesano, R., Zúñiga, L. (2022). *Diseño de algoritmos*. Universidad Nacional Autónoma de México; Facultad de Contaduría y Administración.
