@@ -1,4 +1,4 @@
-# Diseño-de-Algoritmos
+# Diseño  -Algoritmos
 
 ## Saúl Camacho Medel
 
@@ -35,9 +35,7 @@ Este programa crea una secuencia numérica, empleando el iterador For.
 | Nombre | Tipo |
 | --- | --- |
 | Numero | int |
-| --- | --- |
 | i | int |
-| --- | --- |
 | serie | int |
 
 
