@@ -1,4 +1,4 @@
-# Diseño  -Algoritmos
+# Diseño de Algoritmos
 
 ## Saúl Camacho Medel
 
