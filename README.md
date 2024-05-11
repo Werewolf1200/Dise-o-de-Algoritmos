@@ -47,7 +47,7 @@ Este programa crea una secuencia numérica, empleando el iterador For.
 
 **Funcionamiento:**
 
-1. Ejecutar archivo ganancia.exe o correr el archivo ganancia.c en un compilador.
+1. Ejecutar archivo serie.exe o correr el archivo serie.c en un compilador.
 
 2. El programa solicitará ingresar un número entero, el cual puede ser cualquier número.
 
