@@ -25,7 +25,6 @@
 
 | Nombre | Tipo |
 | --- | --- |
-| Numero | int |
 | dia | int |
 | mes | int |
 
