@@ -1,12 +1,12 @@
-# Diseño de Algoritmos
+## Diseño de Algoritmos
 
-## Saúl Camacho Medel
+### Saúl Camacho Medel
 
-## Grupo 8192
+### Grupo 8192
 
-## Unidad 6 - Desarrollo de programas - Actividad Complementaria 1
+### Unidad 6 - Desarrollo de programas - Actividad Complementaria 1
 
-# Menú de Comida Rápida 
+### Menú de Comida Rápida 
 ---
 
 
