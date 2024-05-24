@@ -36,7 +36,6 @@ para n = 3, Suma = 6.
 | num | int |
 | i | int |
 | suma | int |
-| arr | array |
 
 
 | Datos de entrada | Datos de salida | Mensajes de ejecución correcta |
