@@ -1,12 +1,12 @@
-# Diseño de Algoritmos
+## Diseño de Algoritmos
 
-## Saúl Camacho Medel
+### Saúl Camacho Medel
 
-## Grupo 8192
+### Grupo 8192
 
-## Unidad 6 - Actividad 2
+### Unidad 6 - Actividad 2
 
-## Sumar Números Pares
+### Sumar Números Pares
 ---
 
 
