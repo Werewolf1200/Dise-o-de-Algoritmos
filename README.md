@@ -4,7 +4,7 @@
 
 ### Grupo 8192
 
-### Unidad 6 - Actividad 2
+### Unidad 6 - Actividad Complementaria 2
 
 ### Sumar Números Pares
 ---
